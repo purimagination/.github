@@ -1,2 +1,2 @@
 * FOR THE DAMAGED CODA
-![1](imgs/1.jpg)
+![1](profile/imgs/1.jpg)
